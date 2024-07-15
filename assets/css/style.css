@@ -1757,9 +1757,9 @@ body.active {
     gap: 120px;
   }
 
-  .about .shape-1 {
+  /* .about .shape-1 {
     width: max-content;
-  }
+  } */
 
   .about .section-title {
     margin-block-end: 70px;
